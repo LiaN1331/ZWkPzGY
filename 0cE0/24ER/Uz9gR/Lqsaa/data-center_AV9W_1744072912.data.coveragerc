@@ -1,5 +1,4 @@
 [run]
 branch = 1
 omit = *migrations*,*tests*,*__init__*,*wsgi.py,*__main__*,*settings*,*manage.py
-
 omit = *migrations*,*tests*,*__init__*,*wsgi.py,*__main__*,*settings*,*manage.py
